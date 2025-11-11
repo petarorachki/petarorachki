@@ -10,27 +10,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a third-year **Information Technology student** at ULSIT (University of Library Studies and Information Technologies) in Bulgaria, with a strong passion for programming and problem-solving.
-
-* 🌱 I’m currently focused on deepening my skills in **C# (.NET)** and **Python**.
-* 💻 I am also developing my front-end skills with **HTML, CSS, JavaScript, and Bootstrap**.
-* 🐧 I have hands-on experience and a strong interest in **Linux environments**.
-* 🎯 **My Goal:** I am actively looking for an **internship** where I can contribute, learn, and prove my skills. I'm eager to join a team and build real-world solutions.
+I'm a third-year IT student at ULSIT with a deep passion for technology. I'm not just a student; I'm a **self-starter**, constantly exploring new challenges and building my skills.
+I spend my time diving into C#/.NET and Python, experimenting with Linux, and building web projects. I'm excited by the challenge of solving complex problems and I am always ready to learn something new.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I'm working with:
-<!--
-| Category | Skills |
-| :--- | :--- |
-| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" alt="HTML, CSS, JavaScript, and Bootstrap icons" /> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cs,python" alt="C# and Python icons" /> |
-| **Framework** | <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET icon" /> |
-| **OS & Tools** | <img src="https://skillicons.dev/icons?i=linux" alt="Linux icon" /> |
-
---- -->
+Primary technologies I'm learning and working with:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,linux,windows,docker,ps,sqlite,html,css,javascript,bootstrap" alt="Tech Stack Icons" />
