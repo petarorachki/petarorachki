@@ -22,7 +22,7 @@ I'm a third-year **Information Technology student** at ULSIT (University of Libr
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I'm working with:
-
+<!--
 | Category | Skills |
 | :--- | :--- |
 | **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" alt="HTML, CSS, JavaScript, and Bootstrap icons" /> |
@@ -30,7 +30,12 @@ Here are some of the technologies I'm working with:
 | **Framework** | <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET icon" /> |
 | **OS & Tools** | <img src="https://skillicons.dev/icons?i=linux" alt="Linux icon" /> |
 
----
+--- -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,linux,windows,docker,ps,sqlite,html,css,javascript,bootstrap" alt="Tech Stack Icons" />
+</p>
+
 
 ### 📫 Let's Connect
 I'm always open to connecting with other developers, students, and industry professionals.
