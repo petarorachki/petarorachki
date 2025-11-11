@@ -28,7 +28,7 @@ Here are some of the technologies I'm working with:
 | **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" alt="HTML, CSS, JavaScript, and Bootstrap icons" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=cs,python" alt="C# and Python icons" /> |
 | **Framework** | <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET icon" /> |
-| **OS & Tools** | <img src="https://skillicons.dev/icons?i=linux,git" alt="Linux and Git icons" /> |
+| **OS & Tools** | <img src="https://skillicons.dev/icons?i=linux" alt="Linux icon" /> |
 
 ---
 
