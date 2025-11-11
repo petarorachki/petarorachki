@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**petarorachki/petarorachki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there, I'm Petar Orachki 👋</h1>
+  
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="A programming/coding animation" width="400"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I'm a third-year **Information Technology student** at ULSIT (University of Library Studies and Information Technologies) in Bulgaria, with a strong passion for programming and problem-solving.
+
+* 🌱 I’m currently focused on deepening my skills in **C# (.NET)** and **Python**.
+* 🐧 I have hands-on experience and a strong interest in **Linux environments**.
+* 🎯 **My Goal:** I am actively looking for an **internship** where I can contribute, learn, and prove my skills. I'm eager to join a team and build real-world solutions.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm working with:
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,python" alt="C# and Python icons" /> |
+| **Framework** | <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET icon" /> |
+| **OS & Tools** | <img src="https://skillicons.dev/icons?i=linux,git" alt="Linux and Git icons" /> |
+
+---
+
+### 📫 Let's Connect
+
+You can find me on LinkedIn. I'm always open to connecting with other professionals.
+
+* **LinkedIn:** [https://www.linkedin.com/in/petar-orachki/](https://www.linkedin.com/in/petar-orachki/)
